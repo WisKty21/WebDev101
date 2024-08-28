@@ -64,3 +64,6 @@ scp -r -i ~/.ssh/test-server2.pem ./quiz-app ec2-user@13.231.119.41:~/
 ls ./quiz-app/*html
 ls ./quiz-app/*
 sudo mv ./quiz-app/* /var/www/html
+
+## PHP
+
